@@ -1,5 +1,8 @@
 # EntregaTema10Prueba
 
+
+Mi repositorio: https://github.com/Eloy31st/EntregaTema10Prueba.git
+
 # Ejercicios
 # 1. El cálculo de la raíz cuadrada
 Sea la función raizCuadrada() que calcula la raíz cuadrada del número que se pasa como argumento. Esta función lanza una excepción si su argumento es negativo. No se le pide que escriba esta función, se asume que ya existe.
